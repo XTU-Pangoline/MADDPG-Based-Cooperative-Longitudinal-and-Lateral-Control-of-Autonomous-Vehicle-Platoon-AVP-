@@ -11,4 +11,7 @@
 *.jpg      binary
 *.pdf      binary
 *.xlsx     binary
+# Simulink仿真缓存目录（解决路径过长报错）
+slprj/
+sldvr/
 #添加gitattributes，修复MATLAB换行与二进制文件变更误判
