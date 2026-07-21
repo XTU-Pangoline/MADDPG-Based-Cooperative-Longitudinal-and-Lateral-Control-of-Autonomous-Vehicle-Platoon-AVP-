@@ -1,0 +1,2 @@
+# MADDPG-Based-Cooperative-Longitudinal-and-Lateral-Control-of-Autonomous-Vehicle-Platoon-AVP-
+This repository contains the complete source code, Simulink models, and plotting scripts for the paper: **[Insert Your Paper Title Here]**. The code implements the proposed MADDPG-based controller with a predictive rule-based constraint mechanism, as well as benchmark algorithms (DDPG, DQN) for comparative analysis.
