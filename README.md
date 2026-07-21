@@ -59,3 +59,5 @@ This repository contains the complete source code, Simulink models, and plotting
     Set up environment: Ensure MATLAB and the required toolboxes are installed.
     Run the main algorithm: Navigate to 1 MADDPG/MADDPG4_1 and run the main MATLAB script. This will launch the Simulink simulation based on rlMADDPG4PFC2.slx.
     Reproduce figures: After the simulation runs, you can execute the scripts in 3 Figure to generate the figures.
+
+Note: The simulation data file is too large to upload to GitHub. Click the link to download the mat results package, extract it, and place it in the corresponding directory to reproduce the plotting results.
