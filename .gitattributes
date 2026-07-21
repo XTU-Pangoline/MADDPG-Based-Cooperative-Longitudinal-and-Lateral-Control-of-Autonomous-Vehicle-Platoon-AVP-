@@ -1,0 +1,14 @@
+# MATLAB脚本，强制统一LF换行
+*.m        text eol=lf
+*.mlx      text eol=lf
+*.md       text eol=lf
+
+# 二进制文件，禁止Git解析对比（解决slx/mat每次打开都判定修改）
+*.slx      binary
+*.mat      binary
+*.fig      binary
+*.png      binary
+*.jpg      binary
+*.pdf      binary
+*.xlsx     binary
+#添加gitattributes，修复MATLAB换行与二进制文件变更误判
